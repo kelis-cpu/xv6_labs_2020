@@ -1,0 +1,38 @@
+Script started on 2023-05-12 20:20:05+08:00 [TERM="xterm-256color" TTY="/dev/pts/5" COLUMNS="69" LINES="48"]
+]0;utt@kelise: ~/xv6-labs-2020/user[01;32mutt@kelise[00m:[01;34m~/xv6-labs-2020/user[00m$ ls
+[0m[01;32m_cat[0m        echo.o        initcode.o    rm.asm        umalloc.d
+[01;32m_echo[0m       echo.sym      [01;32minitcode.out[0m  rm.c          umalloc.o
+[01;32m_forktest[0m   forktest.asm  kill.asm      rm.d          user.h
+[01;32m_grep[0m       forktest.c    kill.c        rm.o          usertests.asm
+[01;32m_grind[0m      forktest.d    kill.d        rm.sym        usertests.c
+[01;32m_init[0m       forktest.o    kill.o        sh.asm        usertests.d
+[01;32m_kill[0m       grep.asm      kill.sym      sh.c          usertests.o
+[01;32m_ln[0m         grep.c        ln.asm        sh.d          usertests.sym
+[01;32m_ls[0m         grep.d        ln.c          sh.o          usys.S
+[01;32m_mkdir[0m      grep.o        ln.d          sh.sym        usys.d
+[01;32m_rm[0m         grep.sym      ln.o          sleep.asm     usys.o
+[01;32m_sh[0m         grind.asm     ln.sym        sleep.c       [01;32musys.pl[0m
+[01;32m_sleep[0m      grind.c       ls.asm        sleep.d       wc.asm
+[01;32m_stressfs[0m   grind.d       ls.c          sleep.o       wc.c
+[01;32m_usertests[0m  grind.o       ls.d          sleep.sym     wc.d
+[01;32m_wc[0m         grind.sym     ls.o          stressfs.asm  wc.o
+[01;32m_zombie[0m     init.asm      ls.sym        stressfs.c    wc.sym
+cat.asm     init.c        mkdir.asm     stressfs.d    xargstest.sh
+cat.c       init.d        mkdir.c       stressfs.o    zombie.asm
+cat.d       init.o        mkdir.d       stressfs.sym  zombie.c
+cat.o       init.sym      mkdir.o       typescript    zombie.d
+cat.sym     [01;32minitcode[0m      mkdir.sym     ulib.c        zombie.o
+echo.asm    initcode.S    printf.c      ulib.d        zombie.sym
+echo.c      initcode.asm  printf.d      ulib.o
+echo.d      initcode.d    printf.o      umalloc.c
+]0;utt@kelise: ~/xv6-labs-2020/user[01;32mutt@kelise[00m:[01;34m~/xv6-labs-2020/user[00m$ clear
+[H[2J[3J]0;utt@kelise: ~/xv6-labs-2020/user[01;32mutt@kelise[00m:[01;34m~/xv6-labs-2020/user[00m$ [K]0;utt@kelise: ~/xv6-labs-2020/user[01;32mutt@kelise[00m:[01;34m~/xv6-labs-2020/user[00m$ ls
+[0m[01;32m_cat[0m       [01;32m_ls[0m         [01;32m_zombie[0m   echo.d        grep.c     grind.sym   initcode.asm  kill.sym  ls.d       pingpong.c  rm.sym     sleep.d       typescript  usertests.asm  [01;32musys.pl[0m       zombie.c
+[01;32m_echo[0m      [01;32m_mkdir[0m      cat.asm   echo.o        grep.d     init.asm    initcode.d    ln.asm    ls.o       printf.c    sh.asm     sleep.o       ulib.c      usertests.c    wc.asm        zombie.d
+[01;32m_forktest[0m  [01;32m_rm[0m         cat.c     echo.sym      grep.o     init.c      initcode.o    ln.c      ls.sym     printf.d    sh.c       sleep.sym     ulib.d      usertests.d    wc.c          zombie.o
+[01;32m_grep[0m      [01;32m_sh[0m         cat.d     forktest.asm  grep.sym   init.d      [01;32minitcode.out[0m  ln.d      mkdir.asm  printf.o    sh.d       stressfs.asm  ulib.o      usertests.o    wc.d          zombie.sym
+[01;32m_grind[0m     [01;32m_sleep[0m      cat.o     forktest.c    grind.asm  init.o      kill.asm      ln.o      mkdir.c    rm.asm      sh.o       stressfs.c    umalloc.c   usertests.sym  wc.o
+[01;32m_init[0m      [01;32m_stressfs[0m   cat.sym   forktest.d    grind.c    init.sym    kill.c        ln.sym    mkdir.d    rm.c        sh.sym     stressfs.d    umalloc.d   usys.S         wc.sym
+[01;32m_kill[0m      [01;32m_usertests[0m  echo.asm  forktest.o    grind.d    [01;32minitcode[0m    kill.d        ls.asm    mkdir.o    rm.d        sleep.asm  stressfs.o    umalloc.o   usys.d         xargstest.sh
+[01;32m_ln[0m        [01;32m_wc[0m         echo.c    grep.asm      grind.o    initcode.S  kill.o        ls.c      mkdir.sym  rm.o        sleep.c    stressfs.sym  user.h      usys.o         zombie.asm
+]0;utt@kelise: ~/xv
