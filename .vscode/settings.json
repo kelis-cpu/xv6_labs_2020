@@ -1,0 +1,13 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+    "files.associations": {
+        "cstdlib": "c",
+        "user.h": "c",
+        "types.h": "c",
+        "cstdio": "c",
+        "stat.h": "c",
+        "fs.h": "c",
+        "sysinfo.h": "c"
+    },
+    "git.terminalAuthentication": false
+}
